@@ -1,0 +1,4 @@
+node_modules
+/node_modules
+config/mysql_connect.js
+/config/mysql_connect.js

@@ -1,0 +1,29 @@
+{
+  "name": "WAVE",
+  "version": "0.0.2",
+  "description": "A WAVE Cloud Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Connor Edwards",
+  "license": "MIT",
+  "dependencies": {
+    "mqtt": "^1.6.2",
+    "socket.io": "^1.3.7"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FroopleXP/wave-server.git"
+  },
+  "keywords": [
+    "wave",
+    "froople",
+    "noval"
+  ],
+  "bugs": {
+    "url": "https://github.com/FroopleXP/wave-server/issues"
+  }
+}
